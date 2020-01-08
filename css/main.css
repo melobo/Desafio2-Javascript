@@ -1,47 +1,75 @@
 #bt01{
     background-color: blue;
+    width: 100%;
+    height: 130px;
     }    
 
 #bt04{
-    background-color: blueviolet;
+    background-color: yellow;
+    width: 100%;
+    height: 130px;
     }
 
 #bt07{
-    background-color: brown;
+    background-color: darksalmon;
+    width: 100%;
+    height: 130px;
     }
 
 #bt10{
-    background-color: burlywood;
+    background-color: turquoise;
+    width: 100%;
+    height: 130px;
     }
 
 #bt02{
-    background-color: blue;
+    background-color: red;
+    width: 100%;
+    height: 130px;
     }    
 
 #bt05{
-    background-color: blueviolet;
+    background-color: purple;
+    width: 100%;
+    height: 130px;
     }
 
 #bt08{
-    background-color: brown;
+    background-color: yellowgreen;
+    width: 100%;
+    height: 130px;
     }
 
 #bt11{
-    background-color: burlywood;
+    background-color: orangered;
+    width: 100%;
+    height: 130px;
     }
 
 #bt03{
-    background-color: blue;
+    background-color: orange;
+    width: 100%;
+    height: 130px;
     }    
 
 #bt06{
-    background-color: blueviolet;
+    background-color: darkcyan;
+    width: 100%;
+    height: 130px;
     }
 
 #bt09{
-    background-color: brown;
+    background-color: pink;
+    width: 100%;
+    height: 130px;
     }
 
 #bt12{
-    background-color: burlywood;
+    background-color: green;
+    width: 100%;
+    height: 130px;
+    }
+#btnOff{
+    background-color: white;
+    border: solid, 1px, black ;
     }
