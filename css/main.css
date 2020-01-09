@@ -1,0 +1,15 @@
+body{
+    background-color:#1B2F33;
+}
+
+h1{
+    color:#D1BE9C;
+    margin: 30px 0;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    border-radius: 15%;
+    background-color: #D1BE9C;
+}
