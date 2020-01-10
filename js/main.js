@@ -41,7 +41,6 @@ const answers = (buttonValue) => {
         } else { alert(`Game Over`) }
     }
     console.log(buttonValue.toElement.value, answerArray)
-    //return answerArray
 }
 
 const valueClick = buttonValue => clickString = buttonValue.toElement.value
