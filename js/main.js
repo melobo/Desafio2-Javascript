@@ -32,13 +32,13 @@ const answers = (buttonValue) => {
         if (answerArray.length !== 0 && randomArray.length === answerArray.length &&
             randomArray[answerArray.length - 1] === answerArray[answerArray.length - 1]) {
             nPlay++
-            console.log(`Terminaste ${answerArray.length}`, nPlay)
+            alert(`Nivel ${answerArray.length} Ok`, nPlay)
             randomArray = []
             answerArray = []
             fnStart(nPlay, randomArray)
         } else if (randomArray[answerArray.length - 1] === answerArray[answerArray.length - 1]) {
             console.log(`vas bien`)
-        } else { alert(`pierdes`) }
+        } else { alert(`Game Over`) }
     }
     console.log(buttonValue.toElement.value, answerArray)
     //return answerArray

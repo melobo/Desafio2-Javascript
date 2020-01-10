@@ -1,103 +1,72 @@
+body{
+    background-color: #f1f1f1;
+} 
+
+h1{
+    font-style: italic;
+    text-align: center;
+}
+
 #playmode{
     text-align: center;    
-    }
+}
 
 #bt01{
-    background-color: blue;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }    
+    background: linear-gradient(to bottom, #21D4FD, #B721FF);
+}    
 
 #bt04{
-    background-color: yellow;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, #08AEEA, #2AF598);
+}
 
 #bt07{
-    background-color: darksalmon;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(117, 230, 117), rgb(1, 51, 1));
+}
 
 #bt10{
-    background-color: turquoise;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, #FAACA8, #DDD6F3);
+}
 
 #bt02{
-    background-color: red;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }    
+    background: linear-gradient(to bottom, rgb(255, 123, 0), rgb(239, 62, 245));
+}    
 
 #bt05{
-    background-color: purple;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(78, 18, 175), rgb(57, 142, 253));
+}
 
 #bt08{
-    background-color: yellowgreen;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(255, 10, 10), rgb(223, 209, 12));
+}
 
 #bt11{
-    background-color: orangered;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(228, 100, 240), rgb(68, 1, 63));
+}
 
 #bt03{
-    background-color: orange;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }    
+    background: linear-gradient(to bottom, rgb(255, 217, 0), rgb(224, 85, 4));
+}    
 
 #bt06{
-    background-color: darkcyan;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(69, 187, 0), rgb(2, 243, 103));
+}
 
 #bt09{
-    background-color: pink;
-    width: 100%;
-    height: 130px;
-    font-size: 60px;
-    font-weight: bold;
-    }
+    background: linear-gradient(to bottom, rgb(25, 25, 49), rgb(0, 255, 221));
+}
 
 #bt12{
-    background-color: green;
-    width: 100%;
-    height: 130px;
+    background: linear-gradient(to bottom, rgb(199, 0, 93), rgb(173, 8, 8));
+
+}
+
+.btn-options{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 15%;
     font-size: 60px;
     font-weight: bold;
-    }
-#btnOff{
-    background-color: white;
-    border: solid, 1px, black ;
-    }
+    color: #fff;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
